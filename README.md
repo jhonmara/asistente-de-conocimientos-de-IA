@@ -6,7 +6,7 @@
 ![React](https://img.shields.io/badge/React-18+-61DAFB)
 ![License](https://img.shields.io/badge/license-MIT-lightgrey)
 
-Asistente **RAG** (Retrieval-Augmented Generation) minimalista para entrevistas técnicas.  
+Asistente **RAG** (Retrieval-Augmented Generation) minimalista.  
 Incluye **backend** con FastAPI y FAISS, y **frontend** en React/Vite.  
 Permite chatear con un modelo OpenAI, recuperar contexto desde documentos locales y usar herramientas externas como Wikipedia.
 
@@ -155,4 +155,3 @@ MIT – uso libre con atribución.
 
 ---
 
-> 💡 **Consejo para entrevistas:** Usa este repo como base, prepara un guion de 5–7 min y enfatiza decisiones técnicas (por qué FAISS, chunking, Postgres opcional, etc.).
